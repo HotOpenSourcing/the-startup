@@ -1,7 +1,6 @@
 # IDE
 .claude/
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -23,3 +22,4 @@ Thumbs.db
 # Eval workspaces (regenerated during skill-creator runs)
 *-workspace/
 iteration-*
+config.bat
